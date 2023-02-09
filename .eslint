@@ -1,3 +1,6 @@
-version: v8
+version: v8.a3
 reverse: true
-config: PT7V6-CYJ7H-AG4CX-KSQJK-Y478M
+config: [
+  CO-PT7V6-CYJ7H-AG4CX-KSQJK-Y478M,
+  XO-SDPWW-MU8YQ-M4NZZ-CWLFQ-A5KSW,
+]
